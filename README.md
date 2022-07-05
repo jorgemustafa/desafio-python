@@ -1,5 +1,7 @@
 # Desafio de Python para Seleção
 
+### Foi utilizado python3.8
+
 ### Olá caros colegas, para testar a aplicação, basta rodar o servidor com o comando "python manage.py runserver" e "python manage.py migrate"
 ### A url para acessar a API Rest está em localhost:8000/
 ### Para mostrar todos os objetos, basta clicar em algum dos links na url inicial:
